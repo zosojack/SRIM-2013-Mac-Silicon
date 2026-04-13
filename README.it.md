@@ -32,13 +32,6 @@ Avviare SRIM 2013 in modo stabile su Apple Silicon usando un wrapper Wine a 32-b
 >  /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 > ```
 
-## Download della repository
-
-```bash
-git clone https://github.com/tuo-username/nome-repo.git
-cd nome-repo
-```
-
 ## Impostazione formato decimale
 SRIM non gestisce correttamente la virgola come separatore decimale.
 

@@ -32,13 +32,6 @@ Run SRIM 2013 reliably on Apple Silicon using a 32-bit Wine wrapper.
 > /usr/sbin/softwareupdate --install-rosetta --agree-to-license
 > ```
 
-## Clone the repository
-
-```bash
-git clone https://github.com/tuo-username/nome-repo.git
-cd nome-repo
-```
-
 ## Decimal format setting
 SRIM does not handle comma decimal separators correctly.
 
