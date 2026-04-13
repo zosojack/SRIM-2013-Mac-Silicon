@@ -44,7 +44,7 @@ Esempio corretto: `1,234,567.89` o `1 234 567.89`
 ## Installazione passo-passo
 
 ### 0) Download di SRIM
-📥 [Scarica da qui](https://github.com/zosojack/SRIM-2013-Mac-Silicon/releases/latest/download/SRIM-2013-Std.zip) il file .zip, poi vai nella cartella Downloads/ e decomprimilo cliccandoci sopra.
+📥 [Scarica da qui](https://github.com/zosojack/SRIM-2013-Mac-Silicon/releases/latest/download/SRIM-2013-Std.zip) la cartella che contiene SRIM-2013.
 
 ### 1) Creazione del wrapper
 1. Apri **Sikarugir Creator**;
