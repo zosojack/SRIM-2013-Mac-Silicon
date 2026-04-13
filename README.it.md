@@ -53,7 +53,18 @@ Esempio corretto: `1,234,567.89` o `1 234 567.89`
 4. Clicca **Create** e salva l'app con nome (es. `SRIM-2013`) in `/Applications/sikarugir/` (default).
 5. Un prompt informa che l'app è stata creata, clicca 'Launch it'.
 
-<img src="./screenshots/engine-selected.png" width="600">
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/engine-selected.png" width="400" alt="Configurazione Engine">
+        <br>
+        <em> Seleziona engine e clicca Create </em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 2) Importazione di SRIM
 1. Nel pannello **Configure**, clicca **Install Software > Copy a Folder Inside**;
